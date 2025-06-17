@@ -1,0 +1,42 @@
+[
+  {
+    "categoryId": "cat-001",
+    "categoryName": "Art",
+    "categoryImage": "cat-art.png"
+  },
+  {
+    "categoryId": "cat-002",
+    "categoryName": "Collectibles",
+    "categoryImage": "cat-collectibles.png"
+  },
+  {
+    "categoryId": "cat-003",
+    "categoryName": "Music",
+    "categoryImage": "cat-music.png"
+  },
+  {
+    "categoryId": "cat-004",
+    "categoryName": "Photography",
+    "categoryImage": "cat-photo.png"
+  },
+  {
+    "categoryId": "cat-005",
+    "categoryName": "Video",
+    "categoryImage": "cat-video.png"
+  },
+  {
+    "categoryId": "cat-006",
+    "categoryName": "Utility",
+    "categoryImage": "cat-utility.png"
+  },
+  {
+    "categoryId": "cat-007",
+    "categoryName": "Sport",
+    "categoryImage": "cat-sport.png"
+  },
+  {
+    "categoryId": "cat-008",
+    "categoryName": "Virtual Worlds",
+    "categoryImage": "cat-virtual.png"
+  }
+]

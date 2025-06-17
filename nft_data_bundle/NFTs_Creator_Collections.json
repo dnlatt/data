@@ -1,0 +1,38 @@
+[
+  {
+    "collectionId": "col-001",
+    "creatorId": "da258db9-0460-4724-a68d-91c7e68ad157",
+    "collectionName": "Ethereal Echoes",
+    "image": "collection1.png"
+  },
+  {
+    "collectionId": "col-002",
+    "creatorId": "cbcaae34-0bab-43c1-bc44-01e999e72c77",
+    "collectionName": "Retro-Futuristic Pixels",
+    "image": "collection2.png"
+  },
+  {
+    "collectionId": "col-003",
+    "creatorId": "3e0eb483-d8b8-4b88-8295-11ec3c128c2f",
+    "collectionName": "Blockchain Brilliance",
+    "image": "collection3.png"
+  },
+  {
+    "collectionId": "col-004",
+    "creatorId": "97df8693-b23e-4f8f-a136-b83a847cacf9",
+    "collectionName": "Digital Renaissance",
+    "image": "collection4.png"
+  },
+  {
+    "collectionId": "col-005",
+    "creatorId": "6a77d5b6-0dae-4221-b90a-da62bb8c8ff9",
+    "collectionName": "Next-Gen Narratives",
+    "image": "collection5.png"
+  },
+  {
+    "collectionId": "col-006",
+    "creatorId": "7834d107-3492-4b9c-814b-a9d9869499d2",
+    "collectionName": "Metascapes",
+    "image": "collection6.png"
+  }
+]
