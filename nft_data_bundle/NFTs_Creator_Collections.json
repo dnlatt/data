@@ -3,36 +3,36 @@
     "collectionId": "col-001",
     "creatorId": "da258db9-0460-4724-a68d-91c7e68ad157",
     "collectionName": "Ethereal Echoes",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection1.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection1.jpeg"
   },
   {
     "collectionId": "col-002",
     "creatorId": "cbcaae34-0bab-43c1-bc44-01e999e72c77",
     "collectionName": "Retro-Futuristic Pixels",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection2.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection2.jpeg"
   },
   {
     "collectionId": "col-003",
     "creatorId": "3e0eb483-d8b8-4b88-8295-11ec3c128c2f",
     "collectionName": "Blockchain Brilliance",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection3.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection3.jpeg"
   },
   {
     "collectionId": "col-004",
     "creatorId": "97df8693-b23e-4f8f-a136-b83a847cacf9",
     "collectionName": "Digital Renaissance",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection4.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection4.jpeg"
   },
   {
     "collectionId": "col-005",
     "creatorId": "6a77d5b6-0dae-4221-b90a-da62bb8c8ff9",
     "collectionName": "Next-Gen Narratives",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection5.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection5.jpeg"
   },
   {
     "collectionId": "col-006",
     "creatorId": "7834d107-3492-4b9c-814b-a9d9869499d2",
     "collectionName": "Metascapes",
-    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collection6.jpeg"
+    "image": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/collections/collection6.jpeg"
   }
 ]
