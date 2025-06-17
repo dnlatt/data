@@ -3,7 +3,7 @@
     "uuid": "da258db9-0460-4724-a68d-91c7e68ad157",
     "username": "DigitalDreamer",
     "email": "creator1@nft.com",
-    "bgImage": "creator1.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator1.png",
     "password": "password1",
     "bio": "Crafting ethereal worlds into collectible NFT art. Dive into my collection of digital dreams.",
     "socials": {
@@ -11,13 +11,13 @@
       "instagram": "https://instagram.com/DigitalDreamerNFT",
       "facebook": "https://digitaldreamer.art"
     },
-    "profileImage": "profile1.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile1.png"
   },
   {
     "uuid": "cbcaae34-0bab-43c1-bc44-01e999e72c77",
     "username": "PixelPioneer",
     "email": "creator2@nft.com",
-    "bgImage": "creator2.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator2.png",
     "password": "password2",
     "bio": "Exploring the frontiers of digital art and NFTs, one pixel at a time. Discover my unique pixel art creations.",
     "socials": {
@@ -25,13 +25,13 @@
       "instagram": "https://instagram.com/PixelPioneerNFT",
       "facebook": "https://pixelpioneer.art"
     },
-    "profileImage": "profile2.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile2.png"
   },
   {
     "uuid": "3e0eb483-d8b8-4b88-8295-11ec3c128c2f",
     "username": "CryptoCanvas",
     "email": "creator3@nft.com",
-    "bgImage": "creator3.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator3.png",
     "password": "password3",
     "bio": "Painting on the blockchain with a visionary brush. Explore my original NFT collections.",
     "socials": {
@@ -39,13 +39,13 @@
       "instagram": "https://instagram.com/CryptoCanvasNFT",
       "facebook": "https://cryptocanvas.art"
     },
-    "profileImage": "profile3.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile3.png"
   },
   {
     "uuid": "97df8693-b23e-4f8f-a136-b83a847cacf9",
     "username": "ArtisNFT",
     "email": "creator4@nft.com",
-    "bgImage": "creator4.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator4.png",
     "password": "password4",
     "bio": "Creating innovative and compelling NFT art that pushes boundaries. See my digital masterpieces.",
     "socials": {
@@ -53,13 +53,13 @@
       "instagram": "https://instagram.com/ArtisNFTs",
       "facebook": "https://artisnft.art"
     },
-    "profileImage": "profile4.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile4.png"
   },
   {
     "uuid": "6a77d5b6-0dae-4221-b90a-da62bb8c8ff9",
     "username": "NFTGenius",
     "email": "creator5@nft.com",
-    "bgImage": "creator5.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator5.png",
     "password": "password5",
     "bio": "A game-changer in the NFT space, bringing fresh concepts to life. Collect my groundbreaking digital works.",
     "socials": {
@@ -67,13 +67,13 @@
       "instagram": "https://instagram.com/NFTGeniusArt",
       "facebook": "https://nftgenius.art"
     },
-    "profileImage": "profile5.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile5.png"
   },
   {
     "uuid": "7834d107-3492-4b9c-814b-a9d9869499d2",
     "username": "MetaverseArtist",
     "email": "creator6@nft.com",
-    "bgImage": "creator6.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator6.png",
     "password": "password6",
     "bio": "Building art for the metaverse. My digital sculptures and environments are ready for your virtual space.",
     "socials": {
@@ -81,13 +81,13 @@
       "instagram": "https://instagram.com/MetaArtistNFT",
       "facebook": "https://metaverseartist.art"
     },
-    "profileImage": "profile6.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile6.png"
   },
   {
     "uuid": "8db29703-4df4-400e-954d-275446f73c59",
     "username": "BlockchainBrush",
     "email": "creator7@nft.com",
-    "bgImage": "creator7.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator7.png",
     "password": "password7",
     "bio": "Strokes of creativity on the blockchain. Explore my unique collection of NFT paintings.",
     "socials": {
@@ -95,13 +95,13 @@
       "instagram": "https://instagram.com/BlockchainBrush",
       "facebook": "https://blockchainbrush.art"
     },
-    "profileImage": "profile7.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile7.png"
   },
   {
     "uuid": "bf567794-f5e0-45da-90b3-7691cab86ffd",
     "username": "DigitalSculptor",
     "email": "creator8@nft.com",
-    "bgImage": "creator8.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator8.png",
     "password": "password8",
     "bio": "Mastering the art of digital sculpture. Creating unique 3D NFT masterpieces for discerning collectors.",
     "socials": {
@@ -109,13 +109,13 @@
       "instagram": "https://instagram.com/DigitalSculptNFT",
       "facebook": "https://digitalsculptor.art"
     },
-    "profileImage": "profile8.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile8.png"
   },
   {
     "uuid": "dbdf279c-c26f-44ea-b1e9-c3ff6217ba53",
     "username": "CryptoCurator",
     "email": "creator9@nft.com",
-    "bgImage": "creator9.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator9.png",
     "password": "password9",
     "bio": "Curating rare and valuable NFTs for the passionate collector. Discover my hand-picked digital art.",
     "socials": {
@@ -123,13 +123,13 @@
       "instagram": "https://instagram.com/CryptoCurator",
       "facebook": "https://cryptocurator.art"
     },
-    "profileImage": "profile9.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile9.png"
   },
   {
     "uuid": "5723695b-23b1-44cb-91e0-a232548194a0",
     "username": "NFTVisionary",
     "email": "creator10@nft.com",
-    "bgImage": "creator10.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator10.png",
     "password": "password10",
     "bio": "A visionary in the NFT realm, shaping the future of digital art. Explore my groundbreaking artworks.",
     "socials": {
@@ -137,13 +137,13 @@
       "instagram": "https://instagram.com/NFTVisionary",
       "facebook": "https://nftvisionary.art"
     },
-    "profileImage": "profile10.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile10.png"
   },
   {
     "uuid": "89869872-e422-4157-8bb0-df0e59cc8721",
     "username": "ArtOnChain",
     "email": "creator11@nft.com",
-    "bgImage": "creator11.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator11.png",
     "password": "password11",
     "bio": "Creating timeless art that lives forever on the blockchain. Own a piece of history with my on-chain art.",
     "socials": {
@@ -151,13 +151,13 @@
       "instagram": "https://instagram.com/ArtOnChainNFT",
       "facebook": "https://artonchain.art"
     },
-    "profileImage": "profile11.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile11.png"
   },
   {
     "uuid": "62b333be-49a8-41c2-aa53-59530aafa79d",
     "username": "GenesisNFT",
     "email": "creator12@nft.com",
-    "bgImage": "creator12.png",
+    "bgImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/bg/creator12.png",
     "password": "password12",
     "bio": "Exploring the origins of NFT creation and pushing its boundaries. Discover the start of something new with my Genesis Collection.",
     "socials": {
@@ -165,6 +165,6 @@
       "instagram": "https://instagram.com/GenesisNFTs",
       "facebook": "https://genesisnft.art"
     },
-    "profileImage": "profile12.png"
+    "profileImage": "https://raw.githubusercontent.com/dnlatt/data/refs/heads/master/nft_data_bundle/images/creators/profile/profile12.png"
   }
 ]
